@@ -1,1 +1,40 @@
-# daily-problem-practice
+# 🧠 Daily Problem Practice — Codewars
+
+This repository contains my **daily problem-solving practice** using **Codewars**.  
+Challenges are solved using **Python and/or JavaScript**, with the goal of sharpening logical thinking, improving code readability, and building algorithmic efficiency — one kata at a time.
+
+This repository focuses on **consistency, clarity, and long-term skill growth**, not just solving problems quickly.
+
+---
+
+## 🎯 Goals
+
+- Reach and consistently solve **5 kyu** challenges
+- Improve **logical and algorithmic thinking**
+- Write **clean, readable, and efficient code**
+- Practice problem-solving using **Python and JavaScript**
+- Build a strong daily coding habit
+
+---
+
+## 🛠 Tech Stack
+
+- Platform: **Codewars**
+- Languages:
+  - 🐍 Python
+  - 🟨 JavaScript (ES6+)
+
+---
+
+## 📅 Daily Progress
+
+| Date | Challenge | Difficulty | Link | Status |
+|------|------------|-------------|------|---------|
+| 2025-10-21 | Head, Tail, Init and Last | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/54592a5052756d5c5d0009c3) | ✅ Completed |
+
+---
+
+## 📌 Notes
+
+This repository represents **discipline, consistency, and growth**.  
+Progress is measured by **clarity of thinking**, not just rank.
