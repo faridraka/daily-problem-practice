@@ -30,7 +30,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 
 | Date | Challenge | Difficulty | Link | Status |
 |------|------------|-------------|------|---------|
-| 2025-10-21 | Head, Tail, Init and Last | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/54592a5052756d5c5d0009c3) | ✅ Completed |
+| 2026-1-1 | Simple Class | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/513e1e47c600c93cef000001) | ✅ Completed |
 
 ---
 
