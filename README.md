@@ -34,6 +34,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-12 | Band Name Generator | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/59727ff285281a44e3000011) | ✅ Completed |
 | 2026-1-13 | Grasshopper - Basic Function Fixer  | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/56200d610758762fb0000002) | ✅ Completed |
 | 2026-1-13 | Is Divisible  | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/558ee8415872565824000007) | ✅ Completed |
+| 2026-1-14 | Find the odd int  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/54da5a58ea159efa38000836) | ✅ Completed |
 
 ---
 
