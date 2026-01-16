@@ -39,6 +39,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-15 | Create Phone Number  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | ✅ Completed |
 | 2026-1-16 | 
 Online RPG: player to qualifying stage?  | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/55849d76acd73f6cc4000087) | ✅ Completed |
+| 2026-1-16 | Reverse word | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) | ✅ Completed |
 
 ---
 
