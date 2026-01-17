@@ -41,6 +41,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 Online RPG: player to qualifying stage?  | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/55849d76acd73f6cc4000087) | ✅ Completed |
 | 2026-1-16 | Reverse word | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) | ✅ Completed |
 | 2026-1-16 | Simple Pig Latin  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | ✅ Completed |
+| 2026-1-16 | Simple Pig Latin  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52eb114b2d55f0e69800078d) | ✅ Completed |
 
 ---
 
