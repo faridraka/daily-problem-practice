@@ -37,11 +37,11 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-14 | Find the odd int  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/54da5a58ea159efa38000836) | ✅ Completed |
 | 2026-1-15 | Detech Pangram  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | ✅ Completed |
 | 2026-1-15 | Create Phone Number  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | ✅ Completed |
-| 2026-1-16 | 
-Online RPG: player to qualifying stage?  | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/55849d76acd73f6cc4000087) | ✅ Completed |
+| 2026-1-16 | Online RPG: player to qualifying stage? | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/55849d76acd73f6cc4000087) | ✅ Completed |
 | 2026-1-16 | Reverse word | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) | ✅ Completed |
 | 2026-1-16 | Simple Pig Latin  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | ✅ Completed |
-| 2026-1-16 | Simple Pig Latin  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52eb114b2d55f0e69800078d) | ✅ Completed |
+| 2026-1-17 | Simple Substitution Cipher Helper  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52eb114b2d55f0e69800078d) | ✅ Completed |
+| 2026-1-17 | Backwards Read Primes  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5539fecef69c483c5a000015) | ✅ Completed |
 
 ---
 
