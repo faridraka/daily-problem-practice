@@ -42,6 +42,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-16 | Simple Pig Latin  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | ✅ Completed |
 | 2026-1-17 | Simple Substitution Cipher Helper  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52eb114b2d55f0e69800078d) | ✅ Completed |
 | 2026-1-17 | Backwards Read Primes  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5539fecef69c483c5a000015) | ✅ Completed |
+| 2026-1-18 | Find the Mine  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | ✅ Completed |
 
 ---
 
