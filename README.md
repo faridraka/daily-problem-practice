@@ -44,6 +44,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-17 | Backwards Read Primes  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5539fecef69c483c5a000015) | ✅ Completed |
 | 2026-1-18 | Find the Mine  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | ✅ Completed |
 | 2026-1-18 | Which are in?  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | ✅ Completed |
+| 2026-1-19 | Find within array  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/51f082ba7297b8f07f000001) | ✅ Completed |
 
 ---
 
