@@ -46,6 +46,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-18 | Which are in?  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | ✅ Completed |
 | 2026-1-19 | Find within array  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/51f082ba7297b8f07f000001) | ✅ Completed |
 | 2026-1-19 | Sort sentence pseudo-alphabetically  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52dffa05467ee54b93000712) | ✅ Completed |
+| 2026-1-20 | Extract the domain name from a URL  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/514a024011ea4fb54200004b) | ✅ Completed |
 
 ---
 
