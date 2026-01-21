@@ -49,6 +49,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-20 | Extract the domain name from a URL  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/514a024011ea4fb54200004b) | ✅ Completed |
 | 2026-1-20 | Sort Numbers | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | ✅ Completed |
 | 2026-1-21 | Failed Sort - Bug Fixing #4 | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/55c7f90ac8025ebee1000062) | ✅ Completed |
+| 2026-1-21 | Incrementer | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | ✅ Completed |
 
 ---
 
