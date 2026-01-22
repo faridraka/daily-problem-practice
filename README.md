@@ -51,6 +51,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-21 | Failed Sort - Bug Fixing #4 | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/55c7f90ac8025ebee1000062) | ✅ Completed |
 | 2026-1-21 | Incrementer | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | ✅ Completed |
 | 2026-1-22 | Replace with Alphabet Position  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/546f922b54af40e1e90001da) | ✅ Completed |
+| 2026-1-22 | Convert PascalCase string into snake_case  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/529b418d533b76924600085d) | ✅ Completed |
 
 ---
 
