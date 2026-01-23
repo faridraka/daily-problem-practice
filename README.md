@@ -53,6 +53,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-22 | Replace with Alphabet Position  | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/546f922b54af40e1e90001da) | ✅ Completed |
 | 2026-1-22 | Convert PascalCase string into snake_case  | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/529b418d533b76924600085d) | ✅ Completed |
 | 2026-1-23 | Best Travel | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa) | ✅ Completed |
+| 2026-1-23 | Find the unique string | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3) | ✅ Completed |
 
 ---
 
