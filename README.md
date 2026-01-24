@@ -55,6 +55,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-23 | Best Travel | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa) | ✅ Completed |
 | 2026-1-23 | Find the unique string | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3) | ✅ Completed |
 | 2026-1-23 | Duck Duck Goose | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/582e0e592029ea10530009ce) | ✅ Completed |
+| 2026-1-23 | Change two-dimensional array | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/581214d54624a8232100005f) | ✅ Completed |
 
 ---
 
