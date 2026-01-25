@@ -58,6 +58,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-24 | Change two-dimensional array | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/581214d54624a8232100005f) | ✅ Completed |
 | 2026-1-24 | The Greatest Warrior | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/5941c545f5c394fef900000c) | ✅ Completed |
 | 2026-1-25 | Split String | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | ✅ Completed |
+| 2026-1-25 | Encrypt this! | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5848565e273af816fb000449) | ✅ Completed |
 
 ---
 
