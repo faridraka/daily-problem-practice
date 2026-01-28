@@ -60,6 +60,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-25 | Split String | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | ✅ Completed |
 | 2026-1-25 | Encrypt this! | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5848565e273af816fb000449) | ✅ Completed |
 | 2026-1-27 | Invert Values | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | ✅ Completed |
+| 2026-1-28 | String Matchup | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4) | ✅ Completed |
 
 ---
 
