@@ -62,6 +62,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-27 | Invert Values | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | ✅ Completed |
 | 2026-1-28 | String Matchup | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4) | ✅ Completed |
 | 2026-1-29 | Only One | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5734c38da41454b7f700106e) | ✅ Completed |
+| 2026-1-30 | Break camelCase | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5208f99aee097e6552000148) | ✅ Completed |
 
 ---
 
