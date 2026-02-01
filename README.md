@@ -64,6 +64,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-29 | Only One | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5734c38da41454b7f700106e) | ✅ Completed |
 | 2026-1-30 | Break camelCase | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5208f99aee097e6552000148) | ✅ Completed |
 | 2026-1-31 | Adding Big Numbers | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/525f4206b73515bffb000b21) | ✅ Completed |
+| 2026-2-1 | Explosive Sum | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/52ec24228a515e620b0005ef) | ✅ Completed |
 
 ---
 
