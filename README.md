@@ -66,6 +66,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-1-31 | Adding Big Numbers | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/525f4206b73515bffb000b21) | ✅ Completed |
 | 2026-2-1 | Explosive Sum | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/52ec24228a515e620b0005ef) | ✅ Completed |
 | 2026-2-2 | Make Upper Case | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | ✅ Completed |
+| 2026-2-3 | Not Prime Numbers | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7) | ✅ Completed |
 
 ---
 
