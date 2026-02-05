@@ -68,6 +68,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-2 | Make Upper Case | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | ✅ Completed |
 | 2026-2-3 | Not Prime Numbers | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7) | ✅ Completed |
 | 2026-2-4 | Valid String | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196) | ✅ Completed |
+| 2026-2-5 | CamelCase Method | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/587731fda577b3d1b0001196) | ✅ Completed |
 
 ---
 
