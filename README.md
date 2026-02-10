@@ -73,6 +73,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-7 | Fix string Case | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5b180e9fedaa564a7000009a) | ✅ Completed |
 | 2026-2-8 | Reversed Sequence | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | ✅ Completed |
 | 2026-2-9 | Grabscrab! | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52b305bec65ea40fe90007a7) | ✅ Completed |
+| 2026-2-10 | Sum of Digits / Digital Root | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/541c8630095125aba6000c00) | ✅ Completed |
 
 ---
 
