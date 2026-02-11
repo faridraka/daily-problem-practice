@@ -74,6 +74,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-8 | Reversed Sequence | 🟢 8 kyu | [View Kata](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | ✅ Completed |
 | 2026-2-9 | Grabscrab! | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52b305bec65ea40fe90007a7) | ✅ Completed |
 | 2026-2-10 | Sum of Digits / Digital Root | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/541c8630095125aba6000c00) | ✅ Completed |
+| 2026-2-11 | Duplicate Arguments | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/520d9c27e9940532eb00018e) | ✅ Completed |
 
 ---
 
