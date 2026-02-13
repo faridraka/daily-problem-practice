@@ -76,6 +76,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-10 | Sum of Digits / Digital Root | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/541c8630095125aba6000c00) | ✅ Completed |
 | 2026-2-11 | Duplicate Arguments | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/520d9c27e9940532eb00018e) | ✅ Completed |
 | 2026-2-12 | Rotate Array | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5469e0798a3502f4a90005c9) | ✅ Completed |
+| 2026-2-13 | Find all possible number combos that sum to a number | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/555b1890a75b930e63000023) | ✅ Completed |
 
 ---
 
