@@ -79,6 +79,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-13 | Find all possible number combos that sum to a number | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/555b1890a75b930e63000023) | ✅ Completed |
 | 2026-2-14 | Counting Change Combinations | 🔵 4 kyu | [View Kata](https://www.codewars.com/kata/541af676b589989aed0009e7) | ✅ Completed |
 | 2026-2-15 | Function Addition | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/538835ae443aae6e03000547) | ✅ Completed |
+| 2026-2-16 | String Incrementer | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | ✅ Completed |
 
 ---
 
