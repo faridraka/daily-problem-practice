@@ -81,6 +81,8 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-2-15 | Function Addition | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/538835ae443aae6e03000547) | ✅ Completed |
 | 2026-2-16 | String Incrementer | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | ✅ Completed |
 | 2026-2-17 | Remove All The Marked Elements of a Listn | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/563089b9b7be03472d00002b) | ✅ Completed |
+| 2026-2-18 | Luck Check | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c) | ✅ Completed |
+
 ---
 
 ## 📌 Notes
