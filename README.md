@@ -83,6 +83,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-02-17 | Remove All The Marked Elements of a Listn | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/563089b9b7be03472d00002b) | ✅ Completed |
 | 2026-02-18 | Luck Check | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c) | ✅ Completed |
 | 2026-02-19 | Brute Force Detector | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/695688e9858d531c29a9d748) | ✅ Completed |
+| 2026-02-20 | How many feelings? | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5a33ec23ee1aaebecf000130) | ✅ Completed |
 
 ---
 
