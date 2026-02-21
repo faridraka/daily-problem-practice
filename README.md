@@ -84,6 +84,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-02-18 | Luck Check | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c) | ✅ Completed |
 | 2026-02-19 | Brute Force Detector | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/695688e9858d531c29a9d748) | ✅ Completed |
 | 2026-02-20 | How many feelings? | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5a33ec23ee1aaebecf000130) | ✅ Completed |
+| 2026-02-21 | Sums of parts | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | ✅ Completed |
 
 ---
 
