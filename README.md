@@ -88,6 +88,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-02-23 | First non-repeating Character | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e) | ✅ Completed |
 | 2026-02-26 | Ho Ho Ho with Functions! | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/52af1f150fcae8d33d0009bc) | ✅ Completed |
 | 2026-02-27 | The Hashtag Generator | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/52449b062fb80683ec000024) | ✅ Completed |
+| 2026-02-28 | Multiples of 3 or 5 | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/514b92a657cdc65150000006) | ✅ Completed |
 
 ---
 
