@@ -90,6 +90,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-02-27 | The Hashtag Generator | 🟡 5 kyu | [View Kata](https://www.codewars.com/kata/52449b062fb80683ec000024) | ✅ Completed |
 | 2026-02-28 | Multiples of 3 or 5 | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/514b92a657cdc65150000006) | ✅ Completed |
 | 2026-03-01 | Simple String Reversal II | 🟢 7 kyu | [View Kata](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) | ✅ Completed |
+| 2026-03-02 | Twisted Sum | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f) | ✅ Completed |
 
 ---
 
