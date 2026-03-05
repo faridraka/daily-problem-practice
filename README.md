@@ -93,6 +93,7 @@ This repository focuses on **consistency, clarity, and long-term skill growth**,
 | 2026-03-02 | Twisted Sum | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f) | ✅ Completed |
 | 2026-03-03 | Explosive Sum | 🔵 3 kyu | [View Kata](https://www.codewars.com/kata/52ec24228a515e620b0005ef) | ✅ Completed |
 | 2026-03-04 | Group by Commas | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/5274e122fc75c0943d000148) | ✅ Completed |
+| 2026-03-05 | Range Function | 🟡 6 kyu | [View Kata](https://www.codewars.com/kata/584ebd7a044a1520f20000d5) | ✅ Completed |
 
 ---
 
